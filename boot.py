@@ -13,7 +13,7 @@ def get_user_input(prompt):
         prompt: The message to display to the user.
 
     Returns:
-        The validated numeric input as a float, or None if invalid.
+        The validated numeric input as a float, or None if invalid. 
     """
 
     while True:
